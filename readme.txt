@@ -1,6 +1,6 @@
 📜 Privacy Policy for Unit Converter
 
-Last updated: [replace date]
+Last updated: [05-01-2026]
 
 This Privacy Policy explains how Unit Converter (“we”, “our”, or “us”) handles user information when you use our mobile application.
 
@@ -119,5 +119,6 @@ The updated version will always be available within the app listing.
 9. Contact Us
 
 If you have questions about this Privacy Policy, contact us at:
+
 
 tonirulislamtiu2013@gmail.com
